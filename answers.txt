@@ -4,3 +4,8 @@ and merge them together where a rebase is for when you want to update the branch
 you have commits that happened after you moved to a different branch.  A 
 rebase can also pertain to transferring the changes from any branch to any different
 branch.
+
+What is a remote repository?
+A remote repository is a central repository where its contents and history can be seen by many 
+users.
+	
